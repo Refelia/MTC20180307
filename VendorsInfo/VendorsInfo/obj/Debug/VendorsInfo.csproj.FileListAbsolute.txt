@@ -1,0 +1,10 @@
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\bin\Debug\VendorsInfo.exe.config
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\bin\Debug\VendorsInfo.exe
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\bin\Debug\VendorsInfo.pdb
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\obj\Debug\VendorsInfo.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\obj\Debug\VendorsInfo.Form1.resources
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\obj\Debug\VendorsInfo.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\obj\Debug\VendorsInfo.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\obj\Debug\VendorsInfo.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\obj\Debug\VendorsInfo.exe
+C:\Users\MTCStudent\Desktop\VendorsInfo\VendorsInfo\obj\Debug\VendorsInfo.pdb
